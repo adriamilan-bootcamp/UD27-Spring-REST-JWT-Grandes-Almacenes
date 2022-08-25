@@ -1,0 +1,5 @@
+package com.adriamilan.almacenes.security;
+
+public class SecurityConfig {
+
+}
